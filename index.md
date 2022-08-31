@@ -15,8 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I love the cool questions in the day
+- I love my two wonderful teachers
+- I love the confortable seats that are in the room 
+- I love that the teachers are really cool and chill about the stuff that they do
+
 
 1. Numbered
 2. List
